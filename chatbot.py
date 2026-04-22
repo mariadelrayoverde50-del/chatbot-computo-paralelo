@@ -56,9 +56,9 @@ HTML_TEMPLATE = '''
 </head>
 <body>
     <div class="chat-container">
-        <h2>🤖 Chatbot Paralelo</h2>
+        <h2>🤖 Computo Paralelo</h2>
         <div id="chat-box">
-            <div class="msg bot">¡Hola! Soy tu asistente de TICs. Pregúntame sobre Cómputo Paralelo.</div>
+            <div class="msg bot">¡Hola! Soy tu asistente personal . Pregúntame acerca de Cómputo Paralelo.</div>
         </div>
         <div class="input-area">
             <input type="text" id="userInput" placeholder="Escribe un tema...">
